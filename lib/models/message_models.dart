@@ -17,49 +17,49 @@ final User currentUser = User(
 );
 
 final User susan = User(
-  id: 0,
+  id: 1,
   name: "Susan",
   imageUrl: 'assets/images/susan.jpg',
 );
 
 final User prabesh = User(
-  id: 1,
+  id: 2,
   name: "Prabesh",
   imageUrl: 'assets/images/prabesh.jpg',
 );
 
 final User sworup = User(
-  id: 2,
+  id: 3,
   name: "Sworup",
   imageUrl: 'assets/images/sworup.jpg',
 );
 
 final User sadhana = User(
-  id: 3,
+  id: 4,
   name: "Sadhana",
   imageUrl: 'assets/images/sadhana.jpg',
 );
 
 final User prabin = User(
-  id: 4,
+  id: 5,
   name: "Prabin",
   imageUrl: 'assets/images/prabin.jpg',
 );
 
 final User anjal = User(
-  id: 5,
+  id: 6,
   name: "Anjal",
   imageUrl: 'assets/images/anjal.jpg',
 );
 
 final User bhabish = User(
-  id: 6,
+  id: 7,
   name: "Bhabish",
   imageUrl: 'assets/images/bhabish.jpg',
 );
 
 final User sushant = User(
-  id: 7,
+  id: 8,
   name: "Sushant",
   imageUrl: 'assets/images/sushant.jpg',
 );
