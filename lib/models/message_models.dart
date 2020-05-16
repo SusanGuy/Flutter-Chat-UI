@@ -65,6 +65,58 @@ final User sushant = User(
 );
 
 List<User> favorites = [sadhana, sworup, susan, prabin, anjal];
+
+List<Message> chats = [
+  Message(
+    sender: susan,
+    time: '5:30 PM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: true,
+  ),
+  Message(
+    sender: sworup,
+    time: '4:30 PM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: true,
+  ),
+  Message(
+    sender: sadhana,
+    time: '3:30 PM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: false,
+  ),
+  Message(
+    sender: anjal,
+    time: '2:30 PM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: true,
+  ),
+  Message(
+    sender: sushant,
+    time: '1:30 PM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: false,
+  ),
+  Message(
+    sender: bhabish,
+    time: '12:30 PM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: false,
+  ),
+  Message(
+    sender: prabin,
+    time: '11:30 AM',
+    text: 'Hey, how\'s it going? What did you do today?',
+    isLiked: false,
+    unread: false,
+  ),
+];
 // EXAMPLE MESSAGES IN CHAT SCREEN
 List<Message> messages = [
   Message(
